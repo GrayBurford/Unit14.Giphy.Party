@@ -1,0 +1,9 @@
+#gif-body {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.gif {
+	max-width: 500px;
+	margin: 10px;
+}
